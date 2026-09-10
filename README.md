@@ -10,7 +10,7 @@ localmente en `/uploads` y en tu base de datos PostgreSQL.
 ## 2. Instalación
 
 ```bash
-cd demo-app
+cd DemoDB-Productos
 npm install
 ```
 
